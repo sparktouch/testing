@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo 'testing one';
+        echo 'testing two';
         ?>
     </body>
 </html>
